@@ -3,5 +3,17 @@ This is a work in progress....
 The idea is to build a library which contains several Geo Spatial Indexes, 
 and then use this library to add a new Column Type in Apache Cassandra 
 
+The only two methods implemented for now are:
+
+- inserting of a record in the RTree
+- searching for Records in the RTree
+
+I will add in the next days
+
+- deletion of records
+- nearest neighbor search
+- range neighbour search
+
+
 
 
