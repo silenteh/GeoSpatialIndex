@@ -1,0 +1,7 @@
+This is a work in progress....
+
+The idea is to build a library which contains several Geo Spatial Indexes, 
+and then use this library to add a new Column Type in Apache Cassandra 
+
+
+
