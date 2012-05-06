@@ -10,10 +10,9 @@ The only two methods implemented for now are:
 
 I will add in the next days
 
+- better test suite
 - deletion of records
 - nearest neighbor search
 - range neighbour search
-
-
 
 
