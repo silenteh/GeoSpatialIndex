@@ -6,10 +6,9 @@ and then use this library to add a new Column Type in Apache Cassandra
 The only two methods implemented for now are:
 
 - inserting of a record in the RTree
-- searching for Records in the RTree
+- searching for records in the RTree
 
-I will add in the next days
-
+Rtree TODO:
 - better test suite
 - deletion of records
 - nearest neighbor search
